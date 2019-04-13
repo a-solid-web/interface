@@ -1,0 +1,18 @@
+/*Font-Family*/ 
+
+body {
+font-family: 'Open Sans', sans-serif;
+}
+
+/*Navbar*/
+.nav-link{
+	font-size: 14px; 
+} 
+.navbar-light .navbar-nav .active>.nav-link {
+    border-bottom: 2px solid;
+    border-color:#3256D7;
+    content: " ";
+}
+.nav-item {
+	padding:0 20px;
+}
